@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastAndOfTypeOperators", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupByOperator", "GroupByOperator\GroupByOperator.csproj", "{582E9E9E-6C6C-4092-8DE2-780079EEBEDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupJoin", "GroupJoin\GroupJoin.csproj", "{BE6BAF45-04B3-491E-8AB2-067406A71266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{582E9E9E-6C6C-4092-8DE2-780079EEBEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{582E9E9E-6C6C-4092-8DE2-780079EEBEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{582E9E9E-6C6C-4092-8DE2-780079EEBEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6BAF45-04B3-491E-8AB2-067406A71266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6BAF45-04B3-491E-8AB2-067406A71266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6BAF45-04B3-491E-8AB2-067406A71266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6BAF45-04B3-491E-8AB2-067406A71266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
