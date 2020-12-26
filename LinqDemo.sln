@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregateFunctions", "Aggre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestrictionOperators", "RestrictionOperators\RestrictionOperators.csproj", "{74185B86-8ADA-44C1-AEE4-76978FC5ADF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectionOperators", "ProjectionOperators\ProjectionOperators.csproj", "{1CCC0A6C-5030-4274-BE7C-0E01FA2D0134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectManyOperator", "SelectManyOperator\SelectManyOperator.csproj", "{3B8D6A51-1D8F-4D2F-BAF9-91249AD6EAB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{74185B86-8ADA-44C1-AEE4-76978FC5ADF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74185B86-8ADA-44C1-AEE4-76978FC5ADF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74185B86-8ADA-44C1-AEE4-76978FC5ADF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCC0A6C-5030-4274-BE7C-0E01FA2D0134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCC0A6C-5030-4274-BE7C-0E01FA2D0134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCC0A6C-5030-4274-BE7C-0E01FA2D0134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCC0A6C-5030-4274-BE7C-0E01FA2D0134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8D6A51-1D8F-4D2F-BAF9-91249AD6EAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8D6A51-1D8F-4D2F-BAF9-91249AD6EAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8D6A51-1D8F-4D2F-BAF9-91249AD6EAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8D6A51-1D8F-4D2F-BAF9-91249AD6EAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
