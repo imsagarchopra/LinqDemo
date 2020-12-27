@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatOperator", "ConcatOpe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceEqualOperator", "SequenceEqualOperator\SequenceEqualOperator.csproj", "{904007BE-0E57-466E-96DA-97836A56705F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quantifiers", "Quantifiers\Quantifiers.csproj", "{1FD93732-FB41-4B2A-BCBD-91EAFBD868BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{904007BE-0E57-466E-96DA-97836A56705F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904007BE-0E57-466E-96DA-97836A56705F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904007BE-0E57-466E-96DA-97836A56705F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD93732-FB41-4B2A-BCBD-91EAFBD868BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD93732-FB41-4B2A-BCBD-91EAFBD868BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD93732-FB41-4B2A-BCBD-91EAFBD868BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD93732-FB41-4B2A-BCBD-91EAFBD868BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
