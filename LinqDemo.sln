@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Left Outer Join", "Left Out
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossJoin", "CrossJoin\CrossJoin.csproj", "{9FC0266D-E739-49AA-9AFC-FAA615468102}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperators", "SetOperators\SetOperators.csproj", "{C52EFC19-CB4B-4ECA-993E-103999B50C34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{9FC0266D-E739-49AA-9AFC-FAA615468102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FC0266D-E739-49AA-9AFC-FAA615468102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FC0266D-E739-49AA-9AFC-FAA615468102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52EFC19-CB4B-4ECA-993E-103999B50C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52EFC19-CB4B-4ECA-993E-103999B50C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52EFC19-CB4B-4ECA-993E-103999B50C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52EFC19-CB4B-4ECA-993E-103999B50C34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
